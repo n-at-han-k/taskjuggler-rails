@@ -1,5 +1,7 @@
 # taskjuggler-rails
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/n-at-han-k/taskjuggler-rails)
+
 ## Installation
 Add this line to your application's Gemfile:
 
